@@ -15,7 +15,7 @@
 # donate to support us by sending $10 to jayvee on 2184159174 or https://gesp.pay.com/donate/5
 
 # home page
-![home](screenshot/home.png1)
+![home](screenshot/home1.png)
 
 # About Us
-![home](screenshot/home.png2)
+![home](screenshot/home1.png)
